@@ -1,4 +1,4 @@
-#Add implementation
+#Add implementation using pull command
 def add(x,y):
     return x+y
 #Subtract inplementation
